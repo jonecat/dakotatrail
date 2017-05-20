@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webjeda cards</title>
+    <title>Dakota Trails</title>
     <description>Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
 </description>
     <link>http://dakotatrail.com/</link>
     <atom:link href="http://dakotatrail.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 May 2017 08:17:41 -0700</pubDate>
-    <lastBuildDate>Sat, 20 May 2017 08:17:41 -0700</lastBuildDate>
+    <pubDate>Sat, 20 May 2017 09:16:19 -0700</pubDate>
+    <lastBuildDate>Sat, 20 May 2017 09:16:19 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
